@@ -1,2 +1,2 @@
-# test-repo
+# Intro
 RF, logistic regression model for Titanic data from Kaggle.
